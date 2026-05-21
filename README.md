@@ -238,4 +238,4 @@ Return
 
 Srivalli Gandham
 
-Embedded Systems | ARM | LPC2148 | Embedded C
+Embedded Systems | ARM | LPC2129 | Embedded C
