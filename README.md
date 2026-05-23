@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Ecolight Maestro is an embedded mini project developed using **LPC2148 ARM7 microcontroller**.  
+Ecolight Maestro is an embedded mini project developed using **LPC2129 ARM7 microcontroller**.  
 The system performs automatic street light control based on:
 
 - Real Time Clock (RTC)
@@ -97,7 +97,7 @@ LED = OFF
 
 | Component | Description |
 |-----------|------------|
-| LPC2148 | ARM7 Microcontroller |
+| LPC2129 | ARM7 Microcontroller |
 | LCD 16x2 | Display time and menu |
 | LDR | Light sensing |
 | ADC Channel 0 | Reads LDR value |
